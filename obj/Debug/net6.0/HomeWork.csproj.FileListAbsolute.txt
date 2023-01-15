@@ -1,0 +1,15 @@
+C:\Cisharp\Seminar1\HomeWork\obj\Debug\net6.0\HomeWork.csproj.AssemblyReference.cache
+C:\Cisharp\Seminar1\HomeWork\obj\Debug\net6.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cisharp\Seminar1\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfoInputs.cache
+C:\Cisharp\Seminar1\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfo.cs
+C:\Cisharp\Seminar1\HomeWork\obj\Debug\net6.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Cisharp\Seminar1\HomeWork\bin\Debug\net6.0\HomeWork.exe
+C:\Cisharp\Seminar1\HomeWork\bin\Debug\net6.0\HomeWork.deps.json
+C:\Cisharp\Seminar1\HomeWork\bin\Debug\net6.0\HomeWork.runtimeconfig.json
+C:\Cisharp\Seminar1\HomeWork\bin\Debug\net6.0\HomeWork.dll
+C:\Cisharp\Seminar1\HomeWork\bin\Debug\net6.0\HomeWork.pdb
+C:\Cisharp\Seminar1\HomeWork\obj\Debug\net6.0\HomeWork.dll
+C:\Cisharp\Seminar1\HomeWork\obj\Debug\net6.0\refint\HomeWork.dll
+C:\Cisharp\Seminar1\HomeWork\obj\Debug\net6.0\HomeWork.pdb
+C:\Cisharp\Seminar1\HomeWork\obj\Debug\net6.0\HomeWork.genruntimeconfig.cache
+C:\Cisharp\Seminar1\HomeWork\obj\Debug\net6.0\ref\HomeWork.dll
